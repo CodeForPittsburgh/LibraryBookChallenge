@@ -3,7 +3,7 @@ Processing reading data for the Carnegie Library
 
 The raw data is coming soon
 
-images in the resource folder
+images in the resources/images folder
 
 data in the data folder
 
