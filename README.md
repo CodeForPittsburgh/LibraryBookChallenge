@@ -13,4 +13,7 @@ source code in the source code folder
 
 Create a unique folder for your example
 
+## WPRDC Link to library locations
+
+https://data.wprdc.org/dataset/libraries
 
