@@ -17,3 +17,24 @@ Create a unique folder for your example
 
 https://data.wprdc.org/dataset/libraries
 
+## Contact information for suggestions
+
+tutte@carnegielibrary.or­g
+
+## Suggestion for data file
+###book title
+###book author
+###print or eBook flag
+###logging value
+###log date entered
+###log time entered
+###date read
+###library
+###age group
+###readers zip code
+
+This would be more useful than the separated files allowing the data analysis to pick and choose relative information.
+
+
+
+
